@@ -52,7 +52,7 @@ joplin.plugins.register({
                                 body: project.project_tree,
                                 title: project.project_name,
                                 parent_id: todoFolder.id
-                            }); // TODO merge duplicate notes
+                            });
                         }
                     }).catch(error => {
                         console.error(`${ERROR_MESSAGE}.`);
