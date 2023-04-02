@@ -5,7 +5,8 @@ Joplin.
 
 ## Installation
 
-From Joplin desktop open Options - Plugins, search for "todoist to joplin" and install.
+- From Joplin desktop open Options - Plugins, search for "todoist to joplin" and install.
+- Set your [Todoist API token](https://todoist.com/help/articles/find-your-api-token) in the configuration screen.
 
 ## Development
 
