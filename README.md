@@ -18,12 +18,12 @@ The main two files you will want to look at are:
 ### Requirements
 
 - Make sure you have Node.js and Joplin installed.
-- Set your [Todoist API token](https://todoist.com/help/articles/find-your-api-token) in the configuration screen.
 - Install dependencies: 
 ```
 npm install
 ```
 - Run Joplin in [Development Mode](https://joplinapp.org/api/references/development_mode/#development-mode).
+- Set your [Todoist API token](https://todoist.com/help/articles/find-your-api-token) in the configuration screen.
 - [Install the plugin](https://joplinapp.org/api/get_started/plugins/#install-the-plugin).
 
 ### Building the plugin
